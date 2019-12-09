@@ -11,4 +11,9 @@ In this section I am going to have some list items
 
 	[This is a link to nothing in particular] (http://yahoo.com)
 
-	
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+
